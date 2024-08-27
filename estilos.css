@@ -7,8 +7,7 @@
 
 #DivMediano{
     height: 150px;
-    width: 100%;
-    
+    width: 100%;    
     margin-top: 5px;
     display: flex;
     justify-content: center;
@@ -16,7 +15,7 @@
 
 #DivIntermedio{
     height:140px;
-    width: 75%;
+    width: 80%;
     background-color: blanchedalmond;
     margin: 5px;
 }
